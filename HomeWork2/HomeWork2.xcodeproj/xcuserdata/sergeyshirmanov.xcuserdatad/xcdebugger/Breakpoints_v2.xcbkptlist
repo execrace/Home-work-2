@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9BEBC854-10F1-4845-AD50-5861E08499F4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A7401CB-44A1-4D79-936A-FC940098CF8F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HomeWork2/CatsDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F296E333-5C72-417B-9B8B-84CEB7007507"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HomeWork2/CatsDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "CatsDetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F296E333-5C72-417B-9B8B-84CEB7007507 - 3710554b166d86a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HomeWork2.CatsDetailViewController.imageName.getter : Swift.String"
+                  moduleName = "HomeWork2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeyshirmanov/Documents/HomeWork2/Home-work-2/HomeWork2/HomeWork2/CatsDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "F296E333-5C72-417B-9B8B-84CEB7007507 - 2d7836ff1deb8826"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HomeWork2.CatsDetailViewController.imageName.setter : Swift.String"
+                  moduleName = "HomeWork2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeyshirmanov/Documents/HomeWork2/Home-work-2/HomeWork2/HomeWork2/CatsDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "F296E333-5C72-417B-9B8B-84CEB7007507 - c8f4afd9931233c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HomeWork2.CatsDetailViewController.imageName.modify : Swift.String"
+                  moduleName = "HomeWork2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeyshirmanov/Documents/HomeWork2/Home-work-2/HomeWork2/HomeWork2/CatsDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "F296E333-5C72-417B-9B8B-84CEB7007507 - 2ae4a364df36ddc0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HomeWork2.CatsDetailViewController.imageName.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "HomeWork2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeyshirmanov/Documents/HomeWork2/Home-work-2/HomeWork2/HomeWork2/CatsDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "F296E333-5C72-417B-9B8B-84CEB7007507 - eecd7d818f7cc8d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HomeWork2.CatsDetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; HomeWork2.CatsDetailViewController"
+                  moduleName = "HomeWork2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeyshirmanov/Documents/HomeWork2/Home-work-2/HomeWork2/HomeWork2/CatsDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "F296E333-5C72-417B-9B8B-84CEB7007507 - b97d1944e158b10c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HomeWork2.CatsDetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HomeWork2.CatsDetailViewController&gt;"
+                  moduleName = "HomeWork2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeyshirmanov/Documents/HomeWork2/Home-work-2/HomeWork2/HomeWork2/CatsDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

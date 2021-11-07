@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8A2DC6482736BD9800A81DB2 /* CatsDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A2DC6472736BD9800A81DB2 /* CatsDetailViewController.swift */; };
 		8A6DEE26272E5B30002D32B9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A6DEE25272E5B30002D32B9 /* AppDelegate.swift */; };
 		8A6DEE28272E5B30002D32B9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A6DEE27272E5B30002D32B9 /* SceneDelegate.swift */; };
 		8A6DEE2A272E5B30002D32B9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A6DEE29272E5B30002D32B9 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8A2DC6472736BD9800A81DB2 /* CatsDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatsDetailViewController.swift; sourceTree = "<group>"; };
 		8A6DEE22272E5B30002D32B9 /* HomeWork2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HomeWork2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A6DEE25272E5B30002D32B9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8A6DEE27272E5B30002D32B9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				8A6DEE29272E5B30002D32B9 /* ViewController.swift */,
 				8A6DEE39272E600F002D32B9 /* CatsViewController.swift */,
 				8AF25228273194E900175291 /* TableViewController.swift */,
+				8A2DC6472736BD9800A81DB2 /* CatsDetailViewController.swift */,
 				8A6DEE2B272E5B30002D32B9 /* Main.storyboard */,
 				8A6DEE2E272E5B32002D32B9 /* Assets.xcassets */,
 				8A6DEE30272E5B32002D32B9 /* LaunchScreen.storyboard */,
@@ -146,6 +149,7 @@
 			files = (
 				8AF25229273194E900175291 /* TableViewController.swift in Sources */,
 				8A6DEE2A272E5B30002D32B9 /* ViewController.swift in Sources */,
+				8A2DC6482736BD9800A81DB2 /* CatsDetailViewController.swift in Sources */,
 				8A6DEE3A272E600F002D32B9 /* CatsViewController.swift in Sources */,
 				8A6DEE26272E5B30002D32B9 /* AppDelegate.swift in Sources */,
 				8A6DEE28272E5B30002D32B9 /* SceneDelegate.swift in Sources */,
