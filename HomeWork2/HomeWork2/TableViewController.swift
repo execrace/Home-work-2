@@ -27,7 +27,6 @@ class TableViewController: UITableViewController {
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "Cell", for: indexPath)
         cell.textLabel?.text = catsNames[indexPath.row]
-//        cell.imageView?.image = UIImage(named: catsNames[indexPath.row])
         cell.imageView?.image = UIImage(named: catsImages[indexPath.row])
         cell.imageView?.layer.cornerRadius = cell.frame.size.height / 2
         cell.imageView?.clipsToBounds = true
